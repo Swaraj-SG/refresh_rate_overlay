@@ -29,3 +29,4 @@ def display_refresh_rate():
 
 if __name__ == "__main__":
     display_refresh_rate()
+
