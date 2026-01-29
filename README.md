@@ -1,4 +1,4 @@
-# refresh_rate_overlay
+# Refresh Rate Overlay
 It shows a small overlay on your left - corner screen to show you your current screen refresh rate.
 
 ![image](https://github.com/user-attachments/assets/0d63525f-7192-4410-a637-a24f652cc9a1)
